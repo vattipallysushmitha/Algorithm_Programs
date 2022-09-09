@@ -15,7 +15,7 @@ class BubbleSort
     static void bubbleSort(int array[])
     {
         int size = array.length;
-        
+
         //  loop to access each array element
         for (int i = 0; i < size - 1; i++)
 
