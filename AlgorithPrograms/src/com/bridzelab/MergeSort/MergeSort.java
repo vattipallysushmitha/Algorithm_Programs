@@ -88,7 +88,7 @@ public class MergeSort
 
         //  string type array
         String[] array = { "December", "US", "Delhi", "North", "Goa", "Monday", "Sushmitha", "Thasvika", "AAA" };
-        System.out.println("Array Before Sorting!!!!!!!!!!!! ");
+        System.out.println("Array before merge sorting!!!!!!!!!!!!!");
 
         System.out.println("Result " + Arrays.toString(array));
         mergeSort(array, 0, array.length - 1);
